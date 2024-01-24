@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps Directive Terraform Course
 
 This is the companion repo to: [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
@@ -43,3 +44,7 @@ Explains different types of testing (manual + automated) for Terraform modules a
 ## 09 - Developer Workflows + CI/CD
 
 Covers how teams can work together with Terraform and how to set up CI/CD pipelines to keep infrastructure environments up to date.
+=======
+# TF-LA
+Implementacion de aplicacion en Terraform
+>>>>>>> f9ddf6c72ad2036d96caa08f231fccaa1543ba4a
