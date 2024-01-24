@@ -53,12 +53,11 @@ variable "availability_zones" {
 
 
 # EC2 Variables
-
 variable "ami" {
   description = "Amazon machine image to use for ec2 instance"
   type        = string
-  #default     = "ami-011899242bb902164" # Ubuntu 20.04 LTS // us-east-1
-  default = "ami-0533f2ba8a1995cf9"
+  default     = "ami-011899242bb902164" # Ubuntu 20.04 LTS // us-east-1
+  #default = "ami-0533f2ba8a1995cf9"
 }
 
 variable "instance_type" {
